@@ -1,2 +1,1 @@
-# prepcourser
-prueba uno de repositorio
+este proyecto trata de como crear un repositorio y clonarlo desde github a mi pc
